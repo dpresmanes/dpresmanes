@@ -1,7 +1,7 @@
  # Hola, mi nombre es Damian Presmanes
- ## Web Developer y estudiante de la Licenciatura En Sistemas. 
+ ## Desarrollador Web y estudiante de la Licenciatura En Sistemas. 
 
-En 2019 decidí cambiar el rumbo de mi vida, empecé a capacitarme en desarrallo web, paralelo a esto comencé la univerdad. Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software.
+En 2019 decidí cambiar el rumbo de mi vida, empecé a capacitarme en desarrollo web, paralelo a esto comencé la univerdad. Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme, sumando diferentes tipos de capacitaciones y llevando a la práctica todo lo aprendido.
 
 ## Skills:
