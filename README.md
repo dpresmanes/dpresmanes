@@ -1,5 +1,8 @@
  # Hola, mi nombre es Damian Presmanes
- ## Desarrollador Web y estudiante de la Licenciatura En Sistemas. 
+ 
+ ![https://github.com/dpresmanes](https://image.freepik.com/vector-gratis/caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310.jpg)
+ 
+ ## Soy Desarrollador Web y estudiante de la Licenciatura En Sistemas. 
 
 En 2019 decidí cambiar el rumbo de mi vida, empecé a capacitarme en desarrollo web, paralelo a esto comencé la univerdad. Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme, sumando diferentes tipos de capacitaciones y llevando a la práctica todo lo aprendido.
